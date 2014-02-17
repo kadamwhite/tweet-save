@@ -1,0 +1,17 @@
+{
+  "name": "tweetsave",
+  "description": "save tweets to sqlite",
+  "private": true,
+  "version": "0.1.0",
+  "author": {
+    "name": "Tyler Kellen",
+    "url": "http://goingslowly.com/"
+  },
+  "dependencies": {
+    "sqlite3": "~2.2.0",
+    "ntwitter": "~0.5.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
